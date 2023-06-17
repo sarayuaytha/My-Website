@@ -1,0 +1,87 @@
+ /*body{
+    background: url('https://c4.wallpaperflare.com/wallpaper/498/366/466/buildings-carousel-castel-childrens-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px ;
+    width: 1250px;
+
+
+
+} 
+form{
+    width:250px;
+    height:250px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 22%;
+    margin-left: 15%;
+    border-radius: 20px;
+    border: 4px solid ;
+    background-color: rgba(30, 30, 30, 0.5);
+
+}
+.input{
+    margin-top: 0px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color:white;
+} */
+
+ body{
+        background: url('https://wallpapercave.com/wp/wp5522790.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:500px ;
+        width: 1250px;
+ }
+
+div.main{
+    width:260px;
+    margin: 100px auto 0px auto;
+    height: 250px;
+    border: 2px solid black;
+    margin-top: 250px;
+    border-radius: 20px;
+    margin-left: 70px;
+    background-color: rgba(255, 255, 255,0.5);
+  
+  }
+  div.reg{
+      background-color: black;
+      width: 100%;
+      font-size: 50px;
+      border-radius: 10px;
+      border:1px solid black;
+      box-shadow: 2px 2px 15px rgba(0,0,0,0.5);
+      color: #fff;
+  
+  }
+  form#register{
+      margin: 40px;
+  
+  }
+  label{
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 20px;
+      
+  }
+  input#name{
+      width: 200px;
+      border:1px solid black;
+      border-radius: 3px;
+      padding: 7px;
+      background-color: #fff;
+      box-shadow: 2px 2px 15px rgba(0,0,0,0.5);
+      margin-left: -20px;
+      
+  } 
+  input#sumbit{
+      width:200px;
+        cursor: pointer;
+        padding: 4px;
+        height: 10px;
+  
+  }
+  label,span{
+      text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+  }

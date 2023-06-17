@@ -1,0 +1,30 @@
+.sep{
+    height: 90%;
+    width: 30%;
+    display: flex;
+    margin-top: 40px;
+    font-size: medium;
+    margin-left: -45px;
+    
+}
+.serpent{
+    border:double ;
+    font-family: Noto Serif sinhala;
+    font-size: 50px;
+    margin-bottom: 20px;
+    background-color: bisque;
+}
+body{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/849/983/desktop-wallpaper-neutral-aesthetic-simple-beige-aesthetic-thumbnail.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    margin-left: 550px;
+    font-weight: 2000;
+    font-size: xx-large;
+}
+video{
+ width: 1500px;
+}
+

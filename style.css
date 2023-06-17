@@ -1,0 +1,93 @@
+.pic{
+   background: url('https://images.unsplash.com/photo-1603366615917-1fa6dad5c4fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80');
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 1520px;
+   height: 727px;
+}
+.pic:hover{
+    width: 1520px;
+    height: 727px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: picture 6s infinite;
+}
+
+
+@keyframes picture {
+    
+    0%{
+        background: url('https://nationaljeweler.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXRBIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fcadb27956f769fb776e6c2eb3b878676e13d02f/20210625_Bulgari-2Lily.jpg');
+        width: 1520px;
+        height: 727px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        animation: picture 6s infinite;
+        color:black;
+    }
+    50%{
+        background: url('https://hashtaglegend.com/wp-content/uploads/2021/08/BZERO1_P02_1897_CMYK-scaled.jpg');
+        width: 1520px;
+        height: 727px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        animation: picture 6s infinite;
+    }
+    100% {
+        background: url('https://nationaljeweler.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXhBIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d09960fb0d3f96081560cb3eef92ec8607eed50b/20210625_Bulgari-3Vittoria.jpg');
+        width: 1520px;
+        height: 727px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        animation: picture 6s infinite;
+    }
+
+}
+.header{
+    display: flex;
+    height: 35px;
+    float:right;
+    font-size: x-large;
+    color:white;
+
+}
+a{
+    text-align: right;
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: xx-large;
+}
+hr{
+    margin-top: 3px;
+    height: 30px;
+    
+}
+.text{
+    font-size: 800% ;
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 27%;
+    color: bisque;
+    font-style: bold;
+    border-radius: 5px;
+    padding: 7px;
+    animation:edit 4s infinite;
+}
+
+@keyframes edit{
+    0%{
+        color:black;
+    }
+    50%{
+        color:white;
+    }
+    100%{
+        color:brown;
+    }
+}
+
+
+
+

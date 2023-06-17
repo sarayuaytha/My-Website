@@ -1,0 +1,203 @@
+body{
+    background-color: white;
+}
+.txt{
+    color:black;
+    font-family: Noto Serif sinhala;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+h1{
+    position: absolute;
+}
+#bvlgari{
+    position: relative;
+    width:100%;
+}
+.type{
+    position: fixed;
+    margin-left: 40px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.home{
+    display: flex;
+}
+.nav{
+    display: flex;
+    margin-top:9px;
+    color: black;
+    margin-left: 900px;
+    font-family: Noto Serif sinhala;
+    font-size: medium;
+}
+.txt1{
+    font-size: xx-large;
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 570px;
+    color:bisque;
+    font-family: Noto Serif sinhala;
+    font-size: xx-large;
+    
+}
+video{
+    position: relative;
+}
+.serpent{
+    border:double ;
+    font-family: Noto Serif sinhala;
+    font-size: 50px;
+    background-color:bisque;
+}
+.sep{
+    height: 90%;
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    font-size: medium;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+
+.t{
+    font-family: Noto Serif sinhala;
+    font-size: medium;
+  
+}
+.zen{
+    font-family: Noto Serif sinhala;
+    font-size: xx-large;
+    font-weight: 390;
+    margin-left: auto;
+    margin-left: 10px;
+}
+.pic{
+    margin-top: 15px;
+   margin-left: 260px;
+   margin-bottom: 10px;
+   justify-content: space-evenly;
+   
+}
+.container{
+    height: 400px;
+    width: auto;
+    background-color: rgb(251, 234, 214);
+   position: relative;
+}
+.flo{
+    position: absolute;
+    text-align: left;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -300px;
+}
+
+/*
+.f1{
+    margin-top: 80px;
+    background-color: bisque;
+    font-family:Noto Serif sinhala;
+    font-size: medium;
+}
+.f3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.fnames{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    color:black;
+    margin-bottom: 30px;
+    position: relative;
+    margin-left: 10px;
+    display: flex;
+}
+.h2{
+   display: block;
+    margin: left 20px;
+    position: absolute;
+    display: flex;
+
+}
+.flink ul p{
+    margin-bottom: 15px;
+    display: flex;
+}
+
+
+
+/*
+.footer-col{
+   width: 25%;
+ margin-left: 10px;
+ display: flex;
+ justify-content: space-evenly;
+
+}
+.footer-col h4{
+	font-size: 20px;
+	color: black;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 600;
+	position: relative;
+	font-family:Noto Serif sinhala;
+}
+
+.footer-col .social-links a{
+	
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: black;
+	transition: all 0.5s ease;
+	font-family:Noto Serif sinhala ;
+    display:flex ;
+    justify-content: space-evenly;
+}
+.footer-col .social-links a:hover{
+	color: bisque;
+	background-color: #ffffff;
+}*/
+
+
+.foot{
+    background-color:bisque;
+    padding-left:70px;
+    padding-top: 40px;
+    margin-top: 10%;
+    padding-bottom: 40px;
+    color:black;
+    display: flex;
+    flex-direction: row;
+    column-gap: 90px;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    font-family:Noto Serif sinhala;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: -70px;
+}
+.f35{
+    height:45px;
+    display:flex;
+    flex-direction: row;
+    column-gap: 30px;
+}
+H3{
+    font-family: Noto Serif sinhala;
+}

@@ -1,0 +1,26 @@
+.serpent{
+    border:double ;
+    font-family: Noto Serif sinhala;
+    font-size: 50px;
+    margin-bottom: 20px;
+    background-color:bisque;
+}
+video{
+    height: auto;
+    height: 800px;
+    width:1600px;
+   margin-left:-45px;
+}
+.sep{
+    height: 90%;
+    width: 30%;
+    display: flex;
+    margin-top: 40px;
+    font-size: medium;
+    margin-left: -25px;
+}
+body{
+    background-image: url('https://wallpaperaccess.com/full/2132476.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
